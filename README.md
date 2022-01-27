@@ -74,7 +74,7 @@ Projects
 . Baya Estate Gate - A android tablet app to help estate security maage visitors and emergency
 
 
-•	Triggr : An sos alert and response system. (playstore) 
+•	Triggr : A serverless sos alert and response system. (playstore) 
 
 
 •	Clinitra : A portable doctor appointment and patient record manager
