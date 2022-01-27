@@ -7,12 +7,14 @@ Coming with a well-honed skill in software development in addition
 to an excellent communication skill. 
 
 
-Hard Skills
+Hard Skills: 
+
 Java, Kotlin, Swift   
 Agile Frameworks, TDD,DDD,CI/CD. 
 MVVM, MVC, Clean architecture, Unit test, Api integration SVN, Github. 
 
-FrontEnd Skills
+FrontEnd Skills: 
+
 Native Android app development,  
 Jetpack, 
 Dagger-Hilt, 
@@ -21,7 +23,9 @@ Room,
 Kotlin-coroutines,  
 Firebase, Android Studio 
 
+
 Native IOS app development, 
+
 SwiftUI,
 UIKit,
 CoreData, 
@@ -40,7 +44,8 @@ Postgresql,
 NOSQL
 
 
-Soft Skills
+Soft Skills: 
+
 Good Communication, 
 Team work.                           
 Time management
