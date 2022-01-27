@@ -3,8 +3,6 @@ where a background in Information and communication technology (ICT) would be ne
 I have over four years’ experience working in the industry for clients large and small. 
 I specialize in native Android and IOS apps development using Java and Swift language, 
 translating complex UI/UX designs to full working and testable apps, as well as deployment to Google playstore and Appstore. 
-Coming with a well-honed skill in software development in addition 
-to an excellent communication skill. 
 
 
 Hard Skills: 
