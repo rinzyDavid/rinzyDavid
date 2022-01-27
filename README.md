@@ -1,7 +1,7 @@
 As a self-motivated and experienced software developer, building a career in challenging environment, 
 where a background in Information and communication technology (ICT) would be needed for the attainment of organizational goals, 
 I have over four years’ experience working in the industry for clients large and small. 
-I specialize in native Android and IOS apps development using Java and Swift language, 
+I specialize in native Android and IOS apps development using Java,Kotlin and Swift language, 
 translating complex UI/UX designs to full working and testable apps, as well as deployment to Google playstore and Appstore. 
 
 
