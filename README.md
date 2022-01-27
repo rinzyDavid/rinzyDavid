@@ -8,16 +8,60 @@ to an excellent communication skill.
 
 
 Hard Skills
-Java, Kotlin, Swift\n
-Agile Frameworks, TDD,DDD,CI/CD\n
-MVVM, MVC, Clean architecture, Unit test, Api integration SVN, Github\n
+Java, Kotlin, Swift   
+Agile Frameworks, TDD,DDD,CI/CD. 
+MVVM, MVC, Clean architecture, Unit test, Api integration SVN, Github. 
+
+FrontEnd Skills
+Native Android app development,  
+Jetpack, 
+Dagger-Hilt, 
+Rx-Java,  
+Room, 
+Kotlin-coroutines,  
+Firebase, Android Studio 
+
+Native IOS app development, 
+SwiftUI,
+UIKit,
+CoreData, 
+CoreLocation,
+CoreAnimation,Realmdb, Xcode 
+Html, Css, JavaScript, jQuery
+
+BackEnd Skill
+Spring boot, 
+Spring MVC, 
+Reactive Spring
+Microservices, 
+RESTful Api
+MySQL, 
+Postgresql, 
+NOSQL
+
+
+Soft Skills
+Good Communication, 
+Team work.                           
+Time management
+Creative thinking, 
+Problem solving,
+Leadership
+
+
+
 
 
 
 Projects 
-•	Ntisa (Nigeria): A multi-tenant ecommerce app. (playstore, app store)
-•	Ntisa Rider (Nigeria): A delivery app for ntisa system (playstore)
-•	Pizza jungle (Nigeria): A pizza ordering android application(playstore) 
-•	Pizza Rider (Nigeria): A pizza delivery application(playstore) 
-•	Triggr (Nigeria): An sos alert and response system. (https://triggr.com.ng, playstore) 
-•	Clinitra (Nigeria): A portable doctor appointment and patient record manager
+•	Ntisa : A multi-tenant ecommerce app. (playstore, app store)
+
+•	Ntisa Rider : A delivery app for ntisa system (playstore)
+
+•	Baya Resident - An estate management solution that provides seamless management of an estate for the facility managers and the estate residents.
+
+. Baya Estate Gate - A android tablet app to help estate security maage visitors and emergency
+
+•	Triggr : An sos alert and response system. (playstore) 
+
+•	Clinitra : A portable doctor appointment and patient record manager
