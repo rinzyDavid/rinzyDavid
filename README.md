@@ -33,7 +33,10 @@ CoreLocation,
 CoreAnimation,Realmdb, Xcode 
 Html, Css, JavaScript, jQuery
 
+
+
 BackEnd Skill
+
 Spring boot, 
 Spring MVC, 
 Reactive Spring
@@ -42,6 +45,8 @@ RESTful Api
 MySQL, 
 Postgresql, 
 NOSQL
+
+
 
 
 Soft Skills: 
@@ -61,12 +66,18 @@ Leadership
 Projects 
 •	Ntisa : A multi-tenant ecommerce app. (playstore, app store)
 
+
 •	Ntisa Rider : A delivery app for ntisa system (playstore)
+
 
 •	Baya Resident - An estate management solution that provides seamless management of an estate for the facility managers and the estate residents.
 
+
 . Baya Estate Gate - A android tablet app to help estate security maage visitors and emergency
+
 
 •	Triggr : An sos alert and response system. (playstore) 
 
+
 •	Clinitra : A portable doctor appointment and patient record manager
+
