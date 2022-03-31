@@ -1,4 +1,4 @@
-As a self-motivated software developer, building a career in challenging environment, where a background in Information and communication technology (ICT) would be needed for the attainment of organizational goals, I have over 4+ years’ experience working in the industry for clients large and small. I am passionate about clean architecture, building scalable systems and learning new ways and technologies to make software development more fun.
+As a self-motivated software developer, building a career in challenging environment, where a background in Information and communication technology (ICT) would be needed for the attainment of organizational goals, I have over 5+ years’ experience working in the industry for clients large and small. I am passionate about clean architecture, building scalable systems and learning new ways and technologies to make software development more fun.
 
 
 
