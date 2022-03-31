@@ -59,21 +59,4 @@ Leadership
 
 
 
-Projects 
-•	Ntisa : A multi-tenant ecommerce app. (playstore, app store)
-
-
-•	Ntisa Rider : A delivery app for ntisa system (playstore)
-
-
-•	Baya Resident - An estate management solution that provides seamless management of an estate for the facility managers and the estate residents.
-
-
-. Baya Estate Gate - A android tablet app to help estate security maage visitors and emergency
-
-
-•	Triggr : A serverless sos alert and response system. (playstore) 
-
-
-•	Clinitra : A portable doctor appointment and patient record manager
 
